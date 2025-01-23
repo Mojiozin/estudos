@@ -1,12 +1,4 @@
-Referente ao .editorconfig
+Ideia de código pra fzr dps
+- espécie de portifólio para mios amigos p/ usar entre agnt (criar tipo um chat, só ideia),
+onde dê para colocar imagens, texto, sla a krl que quiser, com um menu pra navegar nos perfis.
 
-[*]
-# Especifica quais arquivos deverão seguir as identação, devem estar dentro do colchete
-# O '*' deixa as alterações de maneira global
-# Para identificar arquivos no geral, pode usar a extensão dos arquivos (.js, .css, .html, .tsx, etc.)
-
-indent_style = space
-# Tipo da identação vulgo 'espacinho que dá no codigo ao apertar TAB'
-
-indent_size = 2
-# Tamanho da identação, neste caso a identação será de dois "espaços" (apertar a tecla de espaço 2x)
