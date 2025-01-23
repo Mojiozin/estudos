@@ -1,2 +1,3 @@
 # estudos
-Só pra aprender a mexer no git e programar no geral 
+
+Só pra aprender a mexer no git e programar no geral

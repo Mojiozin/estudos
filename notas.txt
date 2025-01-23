@@ -2,3 +2,16 @@ Ideia de código pra fzr dps
 - espécie de portifólio para mios amigos p/ usar entre agnt (criar tipo um chat, só ideia),
 onde dê para colocar imagens, texto, sla a krl que quiser, com um menu pra navegar nos perfis.
 
+Sobre o packege.json
+
+// Cria comandos para serem executados no terminal
+"scripts": {
+  // Serve para executar o next no terminal, fazendo com que abra uma aba que vai autoatualizar conforme o código vai sendo escrito
+  "dev": "next dev",
+  // Serve para análisar o código antes de rodar ele (apenas por leitura), como ver se o código está seguindo a identação
+  // O --check serve para rodar o código no modo de conferência
+  // O . serve representa todos os arquivos e diretórios existentes deste nível adiante
+  "lint:check": "prettier --check ."
+  // O --Write serve para corrigir a identação nos arquivos
+  "lint:fix": "prettier --write ."
+  },
